@@ -66,7 +66,7 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
   <a href="https://www.instagram.com/raw_to_insight" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.youtube.com/@rawtoinsight" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
