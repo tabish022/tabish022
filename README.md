@@ -36,21 +36,40 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
 
 ---
 
-### 📊 GitHub Stats
+<!-- ====================== PROJECTS ====================== -->
+## 🚧 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tabish022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabish022&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabish022&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+### 🏥 Medical Supply Inventory Risk Dashboard
+An Excel-based dashboard analyzing medical supply inventory levels and flagging stock-out / overstock risk to support better procurement decisions.
+<br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/VBA-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-217346?style=flat-square"/>
+<br/>
+🔗 [View Repository](https://github.com/tabish022/medical-supply-inventory-risk-dashboard)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabish022&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
+</td>
+<td width="50%">
 
+### 📱 PhonePe Transactions Analytics Dashboard
+A Power BI dashboard visualizing PhonePe transaction trends, breaking down volume, growth, and category-wise insights across regions.
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-217346?style=flat-square"/>
+<br/>
+🔗 [View Repository](https://github.com/tabish022/phonepe-transactions-analytics-dashboard)
+
+</td>
+</tr>
+</table>
 ---
 
 ### 📫 Let's Connect
