@@ -69,6 +69,27 @@ A Power BI dashboard visualizing PhonePe transaction trends, breaking down volum
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🚲 SQL Data Warehouse & Sales Analytics
+An end-to-end SQL project that models raw sales data into a star schema, audits data quality, and answers business questions using window functions, CTEs, and segmentation logic.
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Joins%20%26%20Window%20Functions-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/Star%20Schema-336791?style=flat-square"/>
+<br/>
+🔗 [View Repository](https://github.com/tabish022/sql-sales-data-warehouse-analysis)
+
+</td>
+<td width="50%">
+
+### 🔜 More Coming Soon
+Another project is currently in progress — check back soon for the next one.
+
+</td>
+</tr>
 </table>
 
 ---
