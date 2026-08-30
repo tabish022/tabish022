@@ -85,9 +85,15 @@ An end-to-end SQL project that models raw sales data into a star schema, audits 
 </td>
 <td width="50%">
 
-### 🔜 More Coming Soon
-Another project is currently in progress — check back soon for the next one.
-
+### 🍕 Pizza Sales — Python EDA
+A Python/Pandas project turning genuinely messy raw sales data (mixed date formats, typo-ridden categories, inconsistent price formatting) into clean, business-ready insights on revenue, top-selling items, and order timing patterns.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-6A5ACD?style=flat-square"/>
+<br/>
+🔗 [View Repository](https://github.com/tabish022/pizza-sales-python-eda)
 </td>
 </tr>
 </table>
