@@ -25,9 +25,10 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
 
 ### 🧰 My Toolkit
 
-**Microsoft Excel**
+### Microsoft Excel
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" style="vertical-align:middle;" />
+</p>
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/VLOOKUP%2FXLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
@@ -35,9 +36,10 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
   <img src="https://img.shields.io/badge/Conditional%20Formatting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
 </p>
 
-**MySQL**
+### MySQL
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="vertical-align:middle;" />
+</p>
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
   <img src="https://img.shields.io/badge/Joins-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Subqueries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Window%20Functions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
@@ -45,9 +47,10 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
   <img src="https://img.shields.io/badge/Case%20Expressions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 </p>
 
-**Power BI**
+### Power BI
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" style="vertical-align:middle;" />
+</p>
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
@@ -55,16 +58,17 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
   <img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
 </p>
 
-**Python**
+### Python
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=python" height="40" style="vertical-align:middle;" />
+</p>
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
 </p>
-    
+
 ---
 
 <!-- ====================== PROJECTS ====================== -->
