@@ -27,7 +27,7 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
 
 **Microsoft Excel**
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=excel" height="40" style="vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" style="vertical-align:middle;" />
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/VLOOKUP%2FXLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
@@ -41,13 +41,13 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
   <img src="https://img.shields.io/badge/Joins-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Subqueries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Window%20Functions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Stored%20Procedures-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Select%20Statement-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Case%20Expressions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 </p>
 
 **Power BI**
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" style="vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" style="vertical-align:middle;" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
