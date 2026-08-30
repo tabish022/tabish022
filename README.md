@@ -26,51 +26,45 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
 ### 🧰 My Toolkit
 
 **Microsoft Excel**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel" height="40" />
-  <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLOOKUP%2FXLOOKUP-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA%20Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Conditional%20Formatting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
+  <img src="https://skillicons.dev/icons?i=excel" height="40" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/VLOOKUP%2FXLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/VBA%20Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Conditional%20Formatting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
 </p>
 
 **MySQL**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://img.shields.io/badge/Joins-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Subqueries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Window%20Functions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stored%20Procedures-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/Joins-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Subqueries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Window%20Functions-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Stored%20Procedures-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 </p>
 
 **Power BI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
 </p>
 
 **Python**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" />
+<p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
+  <img src="https://skillicons.dev/icons?i=python" height="40" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataFrames-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Array%20Operations-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/GroupBy%20Aggregation-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-informational?style=for-the-badge&logo=python&logoColor=white&color=444876" />
-</p>
-
+    
 ---
 
 <!-- ====================== PROJECTS ====================== -->
