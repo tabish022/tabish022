@@ -130,6 +130,27 @@ A Python/Pandas project turning genuinely messy raw sales data (mixed date forma
 🔗 [View Repository](https://github.com/tabish022/pizza-sales-python-eda)
 </td>
 </tr>
+
+<tr> <td width="50%">
+  
+### 🛍️ Retail SQL & Power BI Analytics
+An end-to-end retail analytics project: raw CSVs cleaned in Python, analyzed with 8 MySQL scripts (measures, distribution, trends, ranking, CTEs), and visualized in an interactive Power BI dashboard — with real data-quality fixes and honest findings on repeat purchases, discounting, and marketing spend. 
+<br/> 
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Cleaning-6A5ACD?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> 
+<br/> 
+🔗 [View Repository](https://github.com/tabish022/retail-sql-powerbi-analytics)
+
+</td> <td width="50%">
+  
+### 🔜 Coming Soon
+
+A new project is currently in progress and will be added here shortly. Check back soon! 
+<br/> 
+<img src="https://img.shields.io/badge/Status-In%20Progress-lightgrey?style=flat-square"/>
+</td> </tr>
 </table>
 
 ---
