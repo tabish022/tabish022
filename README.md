@@ -64,7 +64,6 @@ I enjoy working with data — from organizing and cleaning it, to analyzing patt
 <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:6px;">
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="28" />
 </p>
