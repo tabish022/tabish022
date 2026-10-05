@@ -1,26 +1,25 @@
 <h1 align="center">Hi there, I'm Tabish Afzal 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Raw Data into Insight</h3>
+<h3 align="center">Entry-Level Data Analyst | Open to Internship & Full-Time Roles</h3>
 
 
 ---
 
 ### 🙋‍♂️ About Me
 
-I'm a **B.Com (2nd Year)** student building my skills in **data analysis**, with a focus on turning raw data into clear insights and meaningful visualizations.
+I'm an entry-level Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python, built through 5 end-to-end projects across digital marketing, retail sales, fintech, and healthcare.
 
-I enjoy working with data — from organizing and cleaning it, to analyzing patterns, to presenting insights in a way that's clear, visual, and easy to understand. I'm particularly interested in **data cleaning, analysis, business intelligence, and dashboard development**.
+I enjoy turning raw, messy data into clean datasets, finding patterns, and presenting insights through clear dashboards. I also use AI tools to speed up my workflow.
 
-🎯 **My goal is simple:** turn data into insights that support better decisions.
+🎯 I'm looking for an internship or entry-level Data Analyst role where I can apply these skills on real business data.
 
 ---
 
-### 🌱 What I'm Currently Learning / Working On
+### 💼 What I Can Do
 
-- 🔍 Strengthening my **analytical and problem-solving** skills
-- 📊 Building hands-on projects in **data cleaning, analysis & dashboarding**
-- 🛠️ Getting comfortable with real-world tools used by data analysts
-- 📈 Exploring **Business Intelligence** and dashboard development
-
+* 🔍 Clean and prepare raw data using Python, Excel, and Power Query
+* 📈 Analyze data in SQL and uncover business insights
+* 📊 Build dashboards that track KPIs and trends
+* 📝 Present findings clearly to non-technical teams
 ---
 
 ### 🧰 My Toolkit
