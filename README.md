@@ -31,7 +31,7 @@ I enjoy turning raw, messy data into clean datasets, finding patterns, and prese
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/VLOOKUP%2FXLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/VBA%20Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Data%20Validation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Conditional%20Formatting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
 </p>
 
